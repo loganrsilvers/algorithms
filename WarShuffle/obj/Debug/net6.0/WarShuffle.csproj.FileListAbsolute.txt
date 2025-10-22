@@ -1,0 +1,15 @@
+C:\Users\logan\Source\Repos\LSilversAlgorithms\WarShuffle\bin\Debug\net6.0\WarShuffle.exe
+C:\Users\logan\Source\Repos\LSilversAlgorithms\WarShuffle\bin\Debug\net6.0\WarShuffle.deps.json
+C:\Users\logan\Source\Repos\LSilversAlgorithms\WarShuffle\bin\Debug\net6.0\WarShuffle.runtimeconfig.json
+C:\Users\logan\Source\Repos\LSilversAlgorithms\WarShuffle\bin\Debug\net6.0\WarShuffle.dll
+C:\Users\logan\Source\Repos\LSilversAlgorithms\WarShuffle\bin\Debug\net6.0\WarShuffle.pdb
+C:\Users\logan\Source\Repos\LSilversAlgorithms\WarShuffle\obj\Debug\net6.0\WarShuffle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\Source\Repos\LSilversAlgorithms\WarShuffle\obj\Debug\net6.0\WarShuffle.AssemblyInfoInputs.cache
+C:\Users\logan\Source\Repos\LSilversAlgorithms\WarShuffle\obj\Debug\net6.0\WarShuffle.AssemblyInfo.cs
+C:\Users\logan\Source\Repos\LSilversAlgorithms\WarShuffle\obj\Debug\net6.0\WarShuffle.csproj.CoreCompileInputs.cache
+C:\Users\logan\Source\Repos\LSilversAlgorithms\WarShuffle\obj\Debug\net6.0\WarShuffle.sourcelink.json
+C:\Users\logan\Source\Repos\LSilversAlgorithms\WarShuffle\obj\Debug\net6.0\WarShuffle.dll
+C:\Users\logan\Source\Repos\LSilversAlgorithms\WarShuffle\obj\Debug\net6.0\refint\WarShuffle.dll
+C:\Users\logan\Source\Repos\LSilversAlgorithms\WarShuffle\obj\Debug\net6.0\WarShuffle.pdb
+C:\Users\logan\Source\Repos\LSilversAlgorithms\WarShuffle\obj\Debug\net6.0\WarShuffle.genruntimeconfig.cache
+C:\Users\logan\Source\Repos\LSilversAlgorithms\WarShuffle\obj\Debug\net6.0\ref\WarShuffle.dll
