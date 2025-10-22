@@ -1,0 +1,15 @@
+C:\Users\logan\Source\Repos\LSilversAlgorithms\BagIterator\bin\Debug\net6.0\BagIterator.exe
+C:\Users\logan\Source\Repos\LSilversAlgorithms\BagIterator\bin\Debug\net6.0\BagIterator.deps.json
+C:\Users\logan\Source\Repos\LSilversAlgorithms\BagIterator\bin\Debug\net6.0\BagIterator.runtimeconfig.json
+C:\Users\logan\Source\Repos\LSilversAlgorithms\BagIterator\bin\Debug\net6.0\BagIterator.dll
+C:\Users\logan\Source\Repos\LSilversAlgorithms\BagIterator\bin\Debug\net6.0\BagIterator.pdb
+C:\Users\logan\Source\Repos\LSilversAlgorithms\BagIterator\obj\Debug\net6.0\BagIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\Source\Repos\LSilversAlgorithms\BagIterator\obj\Debug\net6.0\BagIterator.AssemblyInfoInputs.cache
+C:\Users\logan\Source\Repos\LSilversAlgorithms\BagIterator\obj\Debug\net6.0\BagIterator.AssemblyInfo.cs
+C:\Users\logan\Source\Repos\LSilversAlgorithms\BagIterator\obj\Debug\net6.0\BagIterator.csproj.CoreCompileInputs.cache
+C:\Users\logan\Source\Repos\LSilversAlgorithms\BagIterator\obj\Debug\net6.0\BagIterator.sourcelink.json
+C:\Users\logan\Source\Repos\LSilversAlgorithms\BagIterator\obj\Debug\net6.0\BagIterator.dll
+C:\Users\logan\Source\Repos\LSilversAlgorithms\BagIterator\obj\Debug\net6.0\refint\BagIterator.dll
+C:\Users\logan\Source\Repos\LSilversAlgorithms\BagIterator\obj\Debug\net6.0\BagIterator.pdb
+C:\Users\logan\Source\Repos\LSilversAlgorithms\BagIterator\obj\Debug\net6.0\BagIterator.genruntimeconfig.cache
+C:\Users\logan\Source\Repos\LSilversAlgorithms\BagIterator\obj\Debug\net6.0\ref\BagIterator.dll
