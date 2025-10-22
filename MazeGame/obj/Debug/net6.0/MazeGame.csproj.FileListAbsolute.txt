@@ -1,0 +1,15 @@
+C:\Users\logan\Source\Repos\LSilversAlgorithms\MazeGame\bin\Debug\net6.0\MazeGame.exe
+C:\Users\logan\Source\Repos\LSilversAlgorithms\MazeGame\bin\Debug\net6.0\MazeGame.deps.json
+C:\Users\logan\Source\Repos\LSilversAlgorithms\MazeGame\bin\Debug\net6.0\MazeGame.runtimeconfig.json
+C:\Users\logan\Source\Repos\LSilversAlgorithms\MazeGame\bin\Debug\net6.0\MazeGame.dll
+C:\Users\logan\Source\Repos\LSilversAlgorithms\MazeGame\bin\Debug\net6.0\MazeGame.pdb
+C:\Users\logan\Source\Repos\LSilversAlgorithms\MazeGame\obj\Debug\net6.0\MazeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\Source\Repos\LSilversAlgorithms\MazeGame\obj\Debug\net6.0\MazeGame.AssemblyInfoInputs.cache
+C:\Users\logan\Source\Repos\LSilversAlgorithms\MazeGame\obj\Debug\net6.0\MazeGame.AssemblyInfo.cs
+C:\Users\logan\Source\Repos\LSilversAlgorithms\MazeGame\obj\Debug\net6.0\MazeGame.csproj.CoreCompileInputs.cache
+C:\Users\logan\Source\Repos\LSilversAlgorithms\MazeGame\obj\Debug\net6.0\MazeGame.sourcelink.json
+C:\Users\logan\Source\Repos\LSilversAlgorithms\MazeGame\obj\Debug\net6.0\MazeGame.dll
+C:\Users\logan\Source\Repos\LSilversAlgorithms\MazeGame\obj\Debug\net6.0\refint\MazeGame.dll
+C:\Users\logan\Source\Repos\LSilversAlgorithms\MazeGame\obj\Debug\net6.0\MazeGame.pdb
+C:\Users\logan\Source\Repos\LSilversAlgorithms\MazeGame\obj\Debug\net6.0\MazeGame.genruntimeconfig.cache
+C:\Users\logan\Source\Repos\LSilversAlgorithms\MazeGame\obj\Debug\net6.0\ref\MazeGame.dll
