@@ -1,0 +1,15 @@
+C:\Users\logan\Source\Repos\LSilversAlgorithms\SearchingAlgorithms\bin\Debug\net8.0\SearchingAlgorithms.exe
+C:\Users\logan\Source\Repos\LSilversAlgorithms\SearchingAlgorithms\bin\Debug\net8.0\SearchingAlgorithms.deps.json
+C:\Users\logan\Source\Repos\LSilversAlgorithms\SearchingAlgorithms\bin\Debug\net8.0\SearchingAlgorithms.runtimeconfig.json
+C:\Users\logan\Source\Repos\LSilversAlgorithms\SearchingAlgorithms\bin\Debug\net8.0\SearchingAlgorithms.dll
+C:\Users\logan\Source\Repos\LSilversAlgorithms\SearchingAlgorithms\bin\Debug\net8.0\SearchingAlgorithms.pdb
+C:\Users\logan\Source\Repos\LSilversAlgorithms\SearchingAlgorithms\obj\Debug\net8.0\SearchingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\Source\Repos\LSilversAlgorithms\SearchingAlgorithms\obj\Debug\net8.0\SearchingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\logan\Source\Repos\LSilversAlgorithms\SearchingAlgorithms\obj\Debug\net8.0\SearchingAlgorithms.AssemblyInfo.cs
+C:\Users\logan\Source\Repos\LSilversAlgorithms\SearchingAlgorithms\obj\Debug\net8.0\SearchingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\logan\Source\Repos\LSilversAlgorithms\SearchingAlgorithms\obj\Debug\net8.0\SearchingAlgorithms.sourcelink.json
+C:\Users\logan\Source\Repos\LSilversAlgorithms\SearchingAlgorithms\obj\Debug\net8.0\SearchingAlgorithms.dll
+C:\Users\logan\Source\Repos\LSilversAlgorithms\SearchingAlgorithms\obj\Debug\net8.0\refint\SearchingAlgorithms.dll
+C:\Users\logan\Source\Repos\LSilversAlgorithms\SearchingAlgorithms\obj\Debug\net8.0\SearchingAlgorithms.pdb
+C:\Users\logan\Source\Repos\LSilversAlgorithms\SearchingAlgorithms\obj\Debug\net8.0\SearchingAlgorithms.genruntimeconfig.cache
+C:\Users\logan\Source\Repos\LSilversAlgorithms\SearchingAlgorithms\obj\Debug\net8.0\ref\SearchingAlgorithms.dll
